@@ -25,9 +25,9 @@ I’m passionate about cybersecurity, cloud security, & AI Security and Governan
 - **Certificate of Cloud Security Knowledge (CCSK)**  
 - **ISO/IEC 27001 Lead Auditor**  
 
-### AI & Data Science Certifications  
+### AI Certifications  
 - **Microsoft AI Fundamentals**  
-- **NVIDIA AI Certificates:**  
+- **NVIDIA AI Certificates:**
   - Best Practices in Feature Engineering with GPU Acceleration  
   - Digital Fingerprinting with Morpheus  
   - Exploring Adversarial Machine Learning  
