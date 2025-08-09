@@ -64,7 +64,6 @@ For the full list and verification of my credentials, please visit my [Credly pr
 - [LinkedIn](https://www.linkedin.com/in/elastoschimwanda)  
 - [Twitter](https://twitter.com/ElastosChim)  
 - [Crunchbase](https://www.crunchbase.com/person/elastos-chimwanda)  
-- [Instagram](https://www.instagram.com/elachimwanda)  
 - [Facebook](https://www.facebook.com/echimwanda)   
 - [Credly Certifications](https://www.credly.com/users/elastos-chimwanda/badges#credly)  
 - Email: echimwanda@cyberdefenseconsultancy.com  
