@@ -66,4 +66,3 @@ For the full list and verification of my credentials, please visit my [Credly pr
 - [Crunchbase](https://www.crunchbase.com/person/elastos-chimwanda)  
 - [Facebook](https://www.facebook.com/echimwanda)   
 - [Credly Certifications](https://www.credly.com/users/elastos-chimwanda/badges#credly)  
-- Email: echimwanda@cyberdefenseconsultancy.com  
