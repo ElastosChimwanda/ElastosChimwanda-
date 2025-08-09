@@ -3,7 +3,7 @@
 **Tech Thought Leader | Cybersecurity & Cloud Security Advisor | AI Integration, Security & Governance Expert | PeopleCert Ambassador (ITIL) | Published Author**
 
 Welcome to my GitHub profile!  
-I’m passionate about cybersecurity, cloud security, AI, and data science, constantly growing my expertise through hands-on projects and professional certifications.
+I’m passionate about cybersecurity, cloud security, & AI Security and Governance, constantly growing my expertise through hands-on projects and professional certifications.
 
 ---
 
@@ -30,7 +30,10 @@ I’m passionate about cybersecurity, cloud security, AI, and data science, cons
   - Best Practices in Feature Engineering with GPU Acceleration  
   - Digital Fingerprinting with Morpheus  
   - Exploring Adversarial Machine Learning  
-  - Getting Started with Deep Learning  
+  - Getting Started with Deep Learning
+  - Evaluation and Light Customization of Large Language Models
+  - Building LLM Applications with Prompt Engineering
+  - Introduction to Transformer-Based Natural Language Processing 
 
 For the full list and verification of my credentials, please visit my [Credly profile](https://www.credly.com/users/elastos-chimwanda/badges#credly).
 
