@@ -19,6 +19,7 @@ I’m passionate about cybersecurity, cloud security, & AI Security and Governan
 ## 🎓 Certifications
 
 ### Cloud & Security Certifications  
+- **Certified Information Systems Security Professional (CISSP)**  
 - **Certified Cloud Security Professional (CCSP)**  
 - **Certified Information Systems Auditor (CISA)**  
 - **Certificate of Cloud Security Knowledge (CCSK)**  
