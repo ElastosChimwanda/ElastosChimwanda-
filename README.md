@@ -52,7 +52,7 @@ For the full list and verification of my credentials, please visit my [Credly pr
 ## 🔧 Skills & Tools
 
 - Cloud Platforms: AWS, Azure, Google Cloud  
-- Security Frameworks & Standards: ISO 27001, NIST, CIS Controls  
+- Security Frameworks & Standards: ISO 27001, ISO 42001, NIST, PCI-DSS, SOC, CIS Controls  
 - Programming: Python, PowerShell, Bash  
 - AI & Machine Learning: TensorFlow, PyTorch, NVIDIA CUDA & RAPIDS, NVIDIA Triton Inference Server, NVIDIA DeepStream SDK, NVIDIA Jarvis (Conversational AI), NVIDIA Clara (Healthcare AI), NVIDIA TAO Toolkit  
 - DevOps & CI/CD: Docker, Kubernetes, Jenkins
